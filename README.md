@@ -10,7 +10,7 @@ O conteúdo deste Podcast foi gerado com a ajuda de uma IAs Generativas! Isso me
 - [https://app.leonardo.ai](https://app.leonardo.ai/)
 - [https://elevenlabs.io/app/home](https://elevenlabs.io/app/home)
 - [www.capcut.com/](http://www.capcut.com/)
-- [https://www.notion.com](https://www.notion.com)
+- [[https://www.notion.com](https://www.notion.so/Criando-um-Podcast-com-IAs-Generativas-17b7c46f7ca88041af44e48173fb45a1?pvs=4)]
 ***
 
 ## Como foi feito
