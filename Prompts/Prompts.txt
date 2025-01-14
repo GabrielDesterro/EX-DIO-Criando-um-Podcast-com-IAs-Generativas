@@ -1,0 +1,64 @@
+```
+
+Você é um roteirista de podcast, vamos criar um podcast de tecnologia focado em estilização com css e eu gostaria de sua ajuda para criar 5 sugestões de nomes criativos para um podcast front-end que tenha um trocadilho no nome.
+
+O podcast vai falar sobre dicas e truques sobre como estilizar em CSS.
+
+{REGRAS}
+
+>O NOME DEVE SER ENXUTO, UM NOME E UM SUBTÍTULO;
+>O NOME TENHA ALGUM TROCADILHO COM REFERÊNCIAS A ENGENHARIA CIVIL;
+>O NOME DEVE TER UMA PALAVRA FORTE E CHAMATIVA;
+
+{REGRAS NEGATIVAS}
+
+>NÃO QUERO QUE CONTENHA REFERÊNCIAS EM OUTROS IDIOMAS ALÉM DO PORTUGUÊS BRASILEIRO;
+>NÃO QUERO QUE USE NOMES PARECIDOS COM NENHUM PODCAST EXISTENTE;
+>NÃOQUERO QUE UTILIZE NENHUMA DAS PALAVRAS: CSS, FRONT-END, PROGRAMADOR
+
+```
+
+```
+me escreva cinco opções de prompts em inglês para geração de uma imagem no Leonardo AI que sirva de capa para o podcast com nome "Pilar do Estilo: O alicerce da estilização web", escreva de forma bem detalhista
+
+
+{REGRAS}
+
+>O PROMPT DEVE FAZER REFERÊNCIA AO CSS; 
+>O PROMPT DEVE FAZER REFERÊNCIA A ENGENHARIA CIVIL;
+>O PROMPT NÃO DEVE DESCREVER UM PILAR PARA A IMAGEM;
+
+```
+
+```
+
+create an image of a vibrant illustration of a construction site where a webpage is being built brick by brick. The 'bricks' are colorful CSS elements like buttons, grids, and typography. Workers in safety helmets and vests are shown placing these elements with precision, while glowing construction cranes lift web components like navigation bars and hero sections into place.
+
+```
+
+```
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em estilização web cujo o nome é "Pilar do Estilo - O alicerce da estilização web" e tem foco na linguagem CSS,  com o público alvo de iniciantes em frontend
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+> no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'gaveta', como se fossem escritos pelo Anderson Gaveta
+> no bloco [CURIOSIDADE 1] substitua por uma curiosidade de CSS
+> no bloco [CURIOSIDADE 2] sobre dica sobre boas práticas ao escrever um código CSS
+> no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Gabriel Desterro e esse foi o Pilar do Estilo dessa semana'
+> use termos de fácil explicação
+> O podcast vai ser apresentado somente por uma pessoa, chamada Gabriel
+> O podcast deve ser curto
+> Sempre que utilizar algum termo técnico, explique melhor como se fosse para uma criança de 10 anos
+
+{REGRAS NEGATIVAS}
+
+> Não ultrapasse 5 minutos de duração
+
+```
